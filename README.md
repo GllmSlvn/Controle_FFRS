@@ -1,5 +1,5 @@
 # 📱 Application SwiftUI - Gestion des Valeurs variables et Statistiques pour FFRS
-Une application iOS développée avec SwiftUI et Core Data pour collecter des données statistiques, et permettre une configuration simple.
+Une application iOS développée avec SwiftUI et Core Data pour collecter des données statistiques et permettre une configuration simple.
 
 ## 🚀 Fonctionnalités principales
 - Suivi des statistiques : Affiche des moyennes et des totaux (ex. : ERMP, lot circulaire, serrures).
