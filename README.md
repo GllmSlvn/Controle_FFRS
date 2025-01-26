@@ -34,7 +34,10 @@ Nombre de clients (clientCount) à configurer dans l'application.
 5. Core Data : Modèle DailyData pour stocker les données statistiques.
 
 ## ✨ Capture d'écran (Exemple)
-Écran de configuration	Écran principal	Réinitialisation
+![Image](https://github.com/user-attachments/assets/0aa2331e-7ac3-4e57-b39e-f496182c5a0a)
+![Image](https://github.com/user-attachments/assets/02b81ab3-dbdb-484e-a547-e2c7c642025c)
+![Image](https://github.com/user-attachments/assets/3467a2f2-f00a-4792-8769-b579521bf4a2)
+![Image](https://github.com/user-attachments/assets/2ac01d3c-0f92-4a9b-9d94-25e7f146fba2)
 
 ## 📄 License
 Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus de détails.
