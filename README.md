@@ -1,2 +1,2 @@
 # Controle_FFRS
-Feuille de contrôle des valeurs variable pour FFRS à Poste Canada
+Application IOS - Feuille de contrôle des valeurs variable pour FFRS à Poste Canada
